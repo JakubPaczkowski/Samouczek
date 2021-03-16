@@ -1,0 +1,15 @@
+a = 5
+b = 5
+
+print(a == 5)            #Sprawdza czy [a jest równe 5]
+print(a != 5)            #Sprawdza czy [a jest różne niż 5] jeśli zmienna była by np:10 otrzymaliśmy byśmy wartość |True|
+print(a > 5)             #Sprawdza czy [a jest wieksze niż 5]
+print(a < 5)             #Sprawdza czy [a jest mniejsze niż 5]
+
+print(a >= 5)            # Sprawdza czy coś jest mnirjsze równe
+print(a <= 5)            # Sprawdza czy coś jest większe równe
+
+print(a == b)            # Sprawdza czy [a jest równe b]
+print(a != b)            # Sprawdza czy [a nie jest równe b]
+
+print(a is b)            # Operatoer is nie porównuje wartości zmiennych  a porównuje ich adresy w pamięci
